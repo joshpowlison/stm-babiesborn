@@ -1,0 +1,14 @@
+{
+	"commands": [
+		{
+			"name": "BabiesBorn.StartCounter",
+			"accessMask": 0,
+			"function": "startCounter"
+		},
+		{
+			"name": "BabiesBorn.StopCounter",
+			"accessMask": 0,
+			"function": "stopCounter"
+		}
+	]
+}

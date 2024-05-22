@@ -1,22 +1,4 @@
 {
 	"name": "BabiesBorn",
-	"version": 1,
-	"coreFiles": [
-		"info.json",
-		"browser-source.html",
-		"script.js",
-		"styles.css"
-	],
-	"commands": [
-		{
-			"name": "BabiesBorn.StartCounter",
-			"accessMask": 0,
-			"function": "startCounter"
-		},
-		{
-			"name": "BabiesBorn.StopCounter",
-			"accessMask": 0,
-			"function": "stopCounter"
-		}
-	]
+	"version": 1
 }
