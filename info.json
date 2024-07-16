@@ -1,4 +1,8 @@
 {
+	"guid": "35E3B2A1-5645-6AB8-45FB-56D43EF2F285",
 	"name": "BabiesBorn",
-	"version": 1
+	"type": 0,
+	"isPublic": 0,
+	"version": 1,
+	"lastUpdateDate": "2024-05-29 17:31:36"
 }

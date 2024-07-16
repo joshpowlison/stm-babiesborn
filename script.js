@@ -3,7 +3,7 @@ const moduleFunctions = {
 	"stopCounter": stopCounter
 };
 
-module.LoadModule(moduleFunctions);
+module.addActions(moduleFunctions);
 
 var interval;
 var babies = 0;
